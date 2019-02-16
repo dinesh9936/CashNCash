@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "628232856618",
+    "firebase_url": "https://dinesh-8a427.firebaseio.com",
+    "project_id": "dinesh-8a427",
+    "storage_bucket": "dinesh-8a427.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628232856618:android:6992c337ed39626b",
+        "android_client_info": {
+          "package_name": "com.example.johndino.cashncash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628232856618-0r3mrk07fkun01ud8se8521ssv0bmtc3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.johndino.cashncash",
+            "certificate_hash": "80a38007f722ce1777fda74aa99a40cea5d954fd"
+          }
+        },
+        {
+          "client_id": "628232856618-buhqvr95r7hsllhbghl9kdu3kvh1fdsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD1AkSrivKEjUY2uRxV8mWjpP7HbG6Rws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628232856618-buhqvr95r7hsllhbghl9kdu3kvh1fdsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
